@@ -53,8 +53,8 @@ When it's day-time, it detects high brightness and switches off the lights.
 ## 4)Smoke Detector
 This is a sensor that is connected to a piezo buzzer. When it detects LPG gas around it, the buzzer starts ringing as a caution.
 
-![lpg off](https://user-images.githubusercontent.com/97884235/178326787-6d31dd6c-ff8d-43f3-a144-d46f2c70c92d.png)
+![5](https://github.com/user-attachments/assets/52d95490-5825-4baa-ae1e-f2a2f8e7973d)
 
-![gas on](https://user-images.githubusercontent.com/97884235/178326726-ea3fa240-9d80-4e44-81ce-c84ff7203778.png)
+![6](https://github.com/user-attachments/assets/3cb0dd0d-b874-4769-9a0c-a5ca9ec91c09)
 
 This project is implemented on the Tinkercad platform. The link is attached here-->https://www.tinkercad.com/things/6uZ8fu9XgNH-smart-home/editel?returnTo=%2Fthings%2F6uZ8fu9XgNH-smart-home
