@@ -44,7 +44,7 @@ Here the fan can also be controlled manually in our design using a slide-switch 
 
 This is a sensor which helps us to turn on the lights in the dark or at night time. It will detect the brightness of surroundings and whenever it detects a human it will turn lights ON if it's dark.
 
-![bulb](https://user-images.githubusercontent.com/97884235/178326185-30a5165f-abeb-425d-8f98-b43352ae4156.png)
+![7](https://github.com/user-attachments/assets/b36e7be0-ba64-4184-bae5-5d286966fedc)
 
 When it's day-time, it detects high brightness and switches off the lights.
 
