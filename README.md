@@ -33,7 +33,7 @@ When the person crosses this distance the servo motor is reset to its original p
 
 This is a sensor that detects humans in its surrounding region and will turn on the fan(which runs by a motor).
 
-![pir on](https://user-images.githubusercontent.com/97884235/178325566-b2eafaf5-01ca-47a4-9350-ecbeff7769e1.png)
+![3](https://github.com/user-attachments/assets/07e1e1f1-1141-4226-99bd-488d0a9654c6)
 
 When the person goes out of its range it will turn off the fan after a few seconds.
 
