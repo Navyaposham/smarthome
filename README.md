@@ -48,7 +48,7 @@ This is a sensor which helps us to turn on the lights in the dark or at night ti
 
 When it's day-time, it detects high brightness and switches off the lights.
 
-![bulb off](https://user-images.githubusercontent.com/97884235/178326324-73c2487f-b1ec-4e2d-acdf-f113c49f78bf.png)
+![8](https://github.com/user-attachments/assets/efea0c11-72ce-4d0d-aef7-4b8f7891115d)
 
 ## 4)Smoke Detector
 This is a sensor that is connected to a piezo buzzer. When it detects LPG gas around it, the buzzer starts ringing as a caution.
