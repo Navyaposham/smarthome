@@ -38,6 +38,7 @@ This is a sensor that detects humans in its surrounding region and will turn on 
 When the person goes out of its range it will turn off the fan after a few seconds.
 
 ![4](https://github.com/user-attachments/assets/ff32d081-356f-46f0-a751-82eca4ca1c8a)
+
 Here the fan can also be controlled manually in our design using a slide-switch attached to it.
 
 ## 3)LDR sensor
