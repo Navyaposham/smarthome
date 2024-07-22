@@ -27,7 +27,7 @@ This is a sensor that detects a person at a certain distance in its range. Whene
 
 When the person crosses this distance the servo motor is reset to its original position and the door is closed.
 
-![uds](https://user-images.githubusercontent.com/97884235/178325303-2b3010ce-074a-4500-8252-ae0e22f755a2.png)
+![2](https://github.com/user-attachments/assets/ee1cd96b-2192-49c2-9d68-035651fabc53)
 
 ## 2)PIR sensor
 
