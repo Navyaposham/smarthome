@@ -15,7 +15,7 @@ Things that you need:
 
 The final view of the circuit is as follows:
 
-![view](https://user-images.githubusercontent.com/97884235/178325247-a852acca-b953-43cc-8fe8-7b165cdba87c.png)
+![Final_View](https://github.com/user-attachments/assets/cd8ef1ab-72f7-4afb-9dda-a1d75d2e180b)
 
 
 The functionality of various sensors is as follows:
