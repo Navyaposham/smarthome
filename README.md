@@ -57,4 +57,4 @@ This is a sensor that is connected to a piezo buzzer. When it detects LPG gas ar
 
 ![gas on](https://user-images.githubusercontent.com/97884235/178326726-ea3fa240-9d80-4e44-81ce-c84ff7203778.png)
 
-This project is implemented on the Tinkercad platform. The link is attached here--> [https://www.tinkercad.com/things/5ZAtoNRIAgA-smart-home/editel?sharecode=0i3DThz9vrst6QQv6TAdRgu2PVwnbKovvfFmOq7b-3I](https://www.tinkercad.com/things/6uZ8fu9XgNH-smart-home)
+This project is implemented on the Tinkercad platform. The link is attached here-->https://www.tinkercad.com/things/6uZ8fu9XgNH-smart-home/editel?returnTo=%2Fthings%2F6uZ8fu9XgNH-smart-home
