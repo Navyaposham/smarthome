@@ -23,7 +23,7 @@ The functionality of various sensors is as follows:
 
 This is a sensor that detects a person at a certain distance in its range. Whenever it detects a human, it automatically opens the door using a servo motor.
 
-![uds off](https://user-images.githubusercontent.com/97884235/178325344-c7f2d5ec-7ce6-45b4-ad6c-2114ebea1339.png)
+![1](https://github.com/user-attachments/assets/48ae2689-710e-46d4-8a53-3bf951289c8b)
 
 When the person crosses this distance the servo motor is reset to its original position and the door is closed.
 
